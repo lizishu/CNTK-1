@@ -440,7 +440,9 @@ namespace ONNX
         { L"Sequence::Softmax",{ {
             { L"Sequence::Softmax", "Softmax" },
         } } },
-
+        { L"LogPlus",{ {
+            { L"LogPlus", "LogPlus" },
+        } } },
         
     };
 
